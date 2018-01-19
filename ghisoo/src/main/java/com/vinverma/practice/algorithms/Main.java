@@ -10,7 +10,7 @@ public class Main {
 
         String hex1 = "68 74 74 70 73 3a 2f 2f 6d 75 64 2e 65 78 61 6d 70 6c 65 2e 63 6f 6d 2f 2e 77 65 6c 6c 2d 6b 6e 6f 77 6e 2f 6d 75 64 2f 76 31 2f 6d 75 64 66 69 6c 65";
 
-        String hex = asciiToHex("https://cisco.mudservice.org/.well-known/mud/v1/MICROCHIP-SOMETHING-1.0");
+        String hex = asciiToHex("https://somecompany.iotservice.org/.well-known/iot/v1/MYCHIP-SOMETHING-1.0");
 
         String mudURL = "https://mud.example.com/.well-known/mud/v1/mudfile";
 
